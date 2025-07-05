@@ -1,5 +1,5 @@
 **Capstone_BP_Trajectory_Data Extraction**<br>
-This repository contains one XML format file, data extraction R code, and one CSV format file.
+This repository contains one XML format file, full R code, and one CSV format file.
 
 **Repository Contents**<br>
 XML format file (WCM 2025_capstone_AdjustedD20250328235201+0000.xml): Exported from OpenClinica 3.13.<br>
