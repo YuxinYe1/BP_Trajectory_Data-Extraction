@@ -1,4 +1,4 @@
-**Capstone_BP_Trajectory_Data Extractio:**<br>
+**Capstone_BP_Trajectory_Data Extraction:**<br>
 This repository contains a full R code.
 
 **Repository Content:**<br>
